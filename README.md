@@ -1,2 +1,2 @@
 # Java-Script-game
-estourar balões
+## estourar balões
